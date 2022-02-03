@@ -1,0 +1,69 @@
+html,body{
+  height: 100%;
+  background-color: #7c9473;
+}
+h1, h6, h3{
+  font-family: 'Roboto Mono', monospace;
+
+}
+h2{
+  padding: 10px;
+}
+
+a:link{
+  color: black;
+
+}
+a:visited{
+  color: black;
+}
+a:hover{
+  color: #0d335d;
+}
+ul{
+  padding-left: 15px;
+  list-style-type: none;
+
+}
+li{
+  margin: 15px 0;
+}
+
+table{
+  text-align: center;
+}
+
+.sidebar-text{
+
+}
+.visiblediv {
+  display:block;
+}
+
+.selector{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.thead{
+  background-color: #cfdac8;
+  font-family: 'Roboto Mono', monospace;!important
+
+}
+
+.statetable{
+  display: none;
+}
+
+#main{
+  background-color: #e8eae6;
+}
+
+#sidebar{
+  height: 100%;
+  font-family: 'Roboto Mono', monospace;
+  background-color: #7c9473;
+}
+#id{
+  align-items: stretch;
+}
